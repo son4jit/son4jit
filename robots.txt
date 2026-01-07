@@ -1,0 +1,42 @@
+User-agent: *
+Allow: /
+
+# High-priority pages for SEO crawling
+Allow: /blog/
+Allow: /posts/
+Allow: /about/
+Allow: /categories/
+Allow: /tags/
+Allow: /archives/
+
+# Important static content
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/
+Allow: /favicon.ico
+
+# Sitemaps - Critical for indexing
+Sitemap: https://son4jit.site/sitemap.xml
+Sitemap: https://son4jit.site/feed.xml
+
+# Crawl optimization
+Crawl-delay: 1
+
+# Block unnecessary paths to focus crawler budget
+Disallow: /tools/
+Disallow: /_site/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /vendor/
+Disallow: /Gemfile*
+Disallow: /*.config.js
+Disallow: /package*.json
+
+# Block bot traps and private content
+Disallow: /trap/
+Disallow: /honeypot/
+Disallow: /private/
+Disallow: /admin/
+
+# Specify host for clarity
+Host: https://son4jit.site

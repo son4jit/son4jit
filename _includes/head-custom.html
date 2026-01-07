@@ -1,0 +1,12 @@
+<!-- Google Search Console and Enhanced SEO -->
+{% include google-search-console.html %}
+
+<!-- Schema.org Structured Data -->
+{% if page.layout == 'post' %}
+  {% include seo-schema.html %}
+{% endif %}
+
+<!-- Cloudflare Web Analytics -->
+{% if site.analytics.cloudflare.id %}
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "{{ site.analytics.cloudflare.id }}"}'></script>
+{% endif %}
