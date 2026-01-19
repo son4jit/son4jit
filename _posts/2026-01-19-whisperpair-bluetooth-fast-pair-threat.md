@@ -79,16 +79,16 @@ The vulnerability exists in the accessory firmware, meaning both Android and non
 
 Until all affected devices receive firmware updates, users should take a few practical precautions.
 
-### Update Device Firmware
+#### Update Device Firmware
 Check your manufacturer’s companion app or official website for firmware updates addressing Fast Pair security.
 
-### Disable Bluetooth When Not Needed
+#### Disable Bluetooth When Not Needed
 Turning off Bluetooth when not in use significantly reduces exposure to nearby attackers.
 
-### Avoid Leaving Devices Discoverable
+#### Avoid Leaving Devices Discoverable
 Only enable pairing mode when actively pairing a new device.
 
-### Watch for Unusual Behavior
+#### Watch for Unusual Behavior
 Unexpected audio playback or unknown paired devices can be warning signs.
 
 ---
