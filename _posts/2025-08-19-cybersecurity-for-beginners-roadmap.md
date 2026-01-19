@@ -3,7 +3,8 @@ title: "Cybersecurity for Beginners: A Practical Roadmap to Start Your Career"
 description: "A beginner-friendly, step-by-step guide to starting a career in cybersecurity. Learn fundamentals, hands-on labs, certifications, and community resources."
 date: 2025-08-19 10:00:00 +0530
 categories: [Cybersecurity, Career]
-tags: [cybersecurity, beginner, career, ethical-hacking, infosec, learning-path]
+tags: [cybersecurity, career, learning-path]
+author: sonajit
 toc: true
 pin: true
 image:
@@ -57,21 +58,21 @@ Cybersecurity skills are built through practice.
 
 ### Practice Platforms
 
-- **TryHackMe** – https://tryhackme.com  
-- **Hack The Box** – https://www.hackthebox.com  
-- **OverTheWire** – https://overthewire.org  
+- **TryHackMe** – [tryhackme.com](https://tryhackme.com)  
+- **Hack The Box** – [hackthebox.com](https://www.hackthebox.com)  
+- **OverTheWire** – [overthewire.org](https://overthewire.org)  
 
 ### Home Lab & Tools
 
-- **VirtualBox** – https://www.virtualbox.org  
-- **VMware Workstation Player** – https://www.vmware.com/products/workstation-player.html  
+- **VirtualBox** – [virtualbox.org](https://www.virtualbox.org)  
+- **VMware Workstation Player** – [vmware.com](https://www.vmware.com/products/workstation-player.html)  
 
 Common tools worth learning:
 
-- **Wireshark** – https://www.wireshark.org  
-- **Nmap** – https://nmap.org  
-- **Burp Suite** – https://portswigger.net/burp  
-- **Metasploit** – https://www.metasploit.com  
+- **Wireshark** – [wireshark.org](https://www.wireshark.org)  
+- **Nmap** – [nmap.org](https://nmap.org)  
+- **Burp Suite** – [portswigger.net/burp](https://portswigger.net/burp)  
+- **Metasploit** – [metasploit.com](https://www.metasploit.com)  
 
 ---
 
@@ -82,36 +83,36 @@ Certifications help validate your knowledge and show commitment.
 ### Free Certifications / Courses
 
 - **Google Cybersecurity Professional Certificate**  
-  https://grow.google/certificates/cybersecurity/  
+  [grow.google/certificates/cybersecurity](https://grow.google/certificates/cybersecurity/)  
 
 - **Cisco Introduction to Cybersecurity**  
-  https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity  
+  [netacad.com](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)  
 
 ---
 
 ### Paid Certifications (Intermediate)
 
 - **CompTIA Security+**  
-  https://www.comptia.org/certifications/security  
+  [comptia.org](https://www.comptia.org/certifications/security)  
 
 - **Certified Ethical Hacker (CEH)**  
-  https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/  
+  [eccouncil.org](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  
 
 - **Splunk Certifications**  
-  https://www.splunk.com/en_us/training.html  
+  [splunk.com](https://www.splunk.com/en_us/training.html)  
 
 - **ELK Stack Training (Elastic)**  
-  https://www.elastic.co/training/  
+  [elastic.co](https://www.elastic.co/training/)  
 
 ---
 
 ### Advanced Certifications
 
 - **OffSec OSCP (PEN-200)**  
-  https://www.offsec.com/courses/pen-200/  
+  [offsec.com/pen-200](https://www.offsec.com/courses/pen-200/)  
 
 - **OffSec OSEP (PEN-300)**  
-  https://www.offsec.com/courses/pen-300/  
+  [offsec.com/pen-300](https://www.offsec.com/courses/pen-300/)  
 
 ---
 
@@ -119,9 +120,9 @@ Certifications help validate your knowledge and show commitment.
 
 Cybersecurity is community-driven, and learning accelerates when you connect with others:
 
-- **Reddit r/netsec** – https://www.reddit.com/r/netsec/  
-- **Twitter/X** – https://x.com  
-- **LinkedIn** – https://www.linkedin.com  
+- **Reddit r/netsec** – [reddit.com/r/netsec](https://www.reddit.com/r/netsec/)  
+- **Twitter/X** – [x.com](https://x.com)  
+- **LinkedIn** – [linkedin.com](https://www.linkedin.com)  
 
 ---
 
