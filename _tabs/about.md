@@ -1,5 +1,5 @@
 ---
-title: About
+title: About sOn4jit
 icon: fas fa-info-circle
 order: 5
 sitemap:
@@ -42,18 +42,29 @@ Some posts are detailed, some are short, and some are just notes. The goal is si
 - 💼 LinkedIn: [@sonajitrabha](https://linkedin.com/in/sonajitrabha)
 - 📧 [Email](mailto:contact@son4jit.site)
 
-
-<div style="margin: 1.5rem 0;">
+<div style="
+  max-width: 420px;
+  overflow: hidden;
+  border-radius: 12px;
+  background: transparent;
+">
   <iframe
     src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4019746"
-    style="border:none; width:100%; height:120px;"
+    style="
+      border: none;
+      width: 420px;
+      height: 120px;
+      background: transparent;
+      display: block;
+    "
+    scrolling="no"
     loading="lazy">
   </iframe>
 </div>
 
 ---
 
-## A Quick Note
+## Note
 
 Everything here is shared for learning purposes. Always practice responsibly and only on systems you’re allowed to test.
 
