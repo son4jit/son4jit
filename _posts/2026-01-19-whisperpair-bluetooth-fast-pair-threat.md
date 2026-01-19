@@ -2,7 +2,7 @@
 title: "WhisperPair: A New Bluetooth Threat Targeting Fast Pair Devices"
 description: "WhisperPair (CVE-2025-36911) is a newly disclosed Bluetooth vulnerability affecting Fast Pair-enabled headphones and earbuds. Learn how the attack works, which devices are impacted, and how to stay protected."
 date: 2026-01-19 10:00:00 +0530
-categories: [Security, Bluetooth]
+categories: [Vulnerability, Bluetooth]
 tags: [bluetooth, vulnerability, fast-pair, wireless-audio, privacy, security]
 author: sonajit
 toc: true
