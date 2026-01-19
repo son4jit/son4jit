@@ -42,7 +42,7 @@ Some posts are detailed, some are short, and some are just notes. The goal is si
 - 💼 LinkedIn: [@sonajitrabha](https://linkedin.com/in/sonajitrabha)
 - 📧 [Email](mailto:contact@son4jit.site)
 
-<div style="display:flex; justify-content:center; margin:1.5rem 0;">
+<div style="margin:1.5rem 0;">
   <div style="
     width:328px;
     height:84px;
