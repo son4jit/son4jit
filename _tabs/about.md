@@ -42,24 +42,25 @@ Some posts are detailed, some are short, and some are just notes. The goal is si
 - 💼 LinkedIn: [@sonajitrabha](https://linkedin.com/in/sonajitrabha)
 - 📧 [Email](mailto:contact@son4jit.site)
 
-<div style="
-  max-width: 420px;
-  overflow: hidden;
-  border-radius: 12px;
-  background: transparent;
-">
-  <iframe
-    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4019746"
-    style="
-      border: none;
-      width: 420px;
-      height: 120px;
-      background: transparent;
-      display: block;
-    "
-    scrolling="no"
-    loading="lazy">
-  </iframe>
+<div style="display:flex; justify-content:center; margin:1.5rem 0;">
+  <div style="
+    width:328px;
+    height:84px;
+    overflow:hidden;
+    border-radius:10px;
+  ">
+    <iframe
+      src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4019746"
+      style="
+        border:none;
+        width:328px;
+        height:84px;
+        display:block;
+      "
+      scrolling="no"
+      loading="lazy">
+    </iframe>
+  </div>
 </div>
 
 ---
@@ -70,4 +71,4 @@ Everything here is shared for learning purposes. Always practice responsibly and
 
 ---
 
-*With great power comes great responsibility.*
+*With great power comes great responsibility.* -- A w1se m4n
