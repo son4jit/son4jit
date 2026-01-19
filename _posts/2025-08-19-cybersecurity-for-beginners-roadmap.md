@@ -7,6 +7,8 @@ tags: [cybersecurity, career, learning-path]
 author: sonajit
 toc: true
 pin: true
+math: true
+mermaid: true
 image:
   path: /assets/img/blogsimage/cybersecurity-beginners-roadmap.png
   lqip: data:image/webp;base64,UklGRiIAAABXRUJQVlA4IBYAAAAwAQCdASoEAAQAAVAfCWkA
