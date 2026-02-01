@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://son4jit.qzz.io">
+  <a href="https://sonajit.in">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <a href="mailto:contact@son4jit.qzz.io">
+  <a href="mailto:contact@sonajit.in">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/sonajitrabha">
